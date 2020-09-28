@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+    }
+    header h1{
+background-color: teal;
+text-align: center;
+color: white;
+
+    }
+    .Bar h1{
+        background-color: turquoise ;
+        text-align: center;
+        color: white;
+    }
+    .content{
+        overflow: hidden;
+        }
+        .Left{
+        background-color: yellowgreen;
+        height: 500px; 
+        width: 20%;
+        float: left;
+        }
+        .Middle{
+            background-color: khaki;
+            height: 500px;
+            width: 60%;
+            float: left;
+            }
+            .upper-part{
+                background-color: green;
+                height: 50%;
+
+            }
+            .upper-part h1{
+                color: honeydew;
+                text-align: center;
+                font-size: 40px;
+                padding: 100px;
+
+            }
+            .lower-part{
+                background-color: greenyellow;
+                height: 50%;
+            }
+            .lower-part h1{
+                color: honeydew;
+                text-align: center;
+                font-size: 40px;
+                padding: 100px;
+            }
+            
+            .Right{
+                background-color: purple;
+                height: 500px;
+                width: 20%;
+                float: left;
+                }
+                .Right h1{
+                    color: honeydew;
+                    text-align: center;
+                    font-size: 60px;
+                    padding: 100px;
+                }
+                .top{
+                    background-color: tomato;
+                    height: 50%;
+   
+                }
+                .top h1{
+                    color: white;
+                    text-align: center;
+                    font-size: 30px;
+                    padding: 100px;
+                }
+                .bottom{
+                    background-color: tan;
+                    height: 50%;
+
+                }
+                .bottom h1{
+                    color: white;
+                    text-align: center;
+                    font-size: 30px;
+                    padding: 100px;
+                }
+                footer{
+                    background-color: crimson;
+                    height: 150px;
+                }
+                footer h1{
+                    color: whitesmoke;
+                    font-size: 50px;
+                    text-align: center;
+                    padding: 50px;
+                }
